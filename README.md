@@ -1,3 +1,12 @@
+1. Pull https://git.crtweb.ru/creative-packages/docker-lesson
+2. Push it to my Github
+3. Git checkout -b dev
+4. APP_NAME: 'ФИО'
+5. Merge dev and conflicted branches
+6. Merge both 
+7. Build image (нехватает опыта в докеру в принципе...)
+
+
 Docker and docker-compose class
 ===============================
 
